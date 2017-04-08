@@ -23,6 +23,8 @@
     
 
     
+        <link rel="icon" href="/favicon.png" />
+    
 
     <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="/vendor/open-sans/styles.css">
@@ -82,7 +84,7 @@ var _hmt = _hmt || [];
                 <nav id="sub-nav">
                     <div class="profile" id="profile-nav">
                         <a id="profile-anchor" href="javascript:;">
-                            <img class="avatar" src="/css/images/avatar.jpg" />
+                            <img class="avatar" src="/images/avatar.jpg" />
                             <i class="fa fa-caret-down"></i>
                         </a>
                     </div>
@@ -160,11 +162,12 @@ var _hmt = _hmt || [];
 <aside id="profile">
     <div class="inner profile-inner">
         <div class="base-info profile-block">
-            <img id="avatar" src="/css/images/avatar.jpg" />
+            <img id="avatar" src="/images/avatar.jpg" />
             <h2 id="name">Cofess</h2>
             <h3 id="title">Web Developer &amp; Designer</h3>
             <span id="location"><i class="fa fa-map-marker"></i>Shenzhen, China</span>
             <a id="follow" target="_blank" href="https://github.com/cofess">关注</a>
+            
         </div>
         <div class="article-info profile-block">
             <div class="article-info-block">
@@ -277,6 +280,21 @@ var _hmt = _hmt || [];
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 
+            <div class="article-copyright">
+  <i class="fa fa-lightbulb-o fa-fw"></i>本文由 <a href="https://cofess.github.io">Cofess</a> 创作，采用
+  <a href="http://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="external">CC BY 4.0 CN协议</a> 进行许可。
+  可自由转载、引用，但需署名作者且注明文章出处。
+  
+  	<br>本文链接为<a href="https://cofess.github.io/2015/12/31/hello-world.html" target="_blank" rel="external">https://cofess.github.io/2015/12/31/hello-world.html</a>
+  
+</div>
+
+            
+            <div class="article-donate text-center">
+                <span>如果您觉得文章不错,可以请我喝一杯咖啡！</span><br/>
+                <p><a href="javascript:void(0)" onclick="donateToggle()" class="open-donate" title="打赏，支持一下">打赏</a></p>
+            </div>
+            
         
         </div>
         <footer class="article-footer">
@@ -286,7 +304,7 @@ var _hmt = _hmt || [];
 
 </div>
 
-    <a data-url="https://cofess.github.io/2015/12/31/hello-world.html" data-id="cj18r6ipm0000bswfzne5t45i" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="https://cofess.github.io/2015/12/31/hello-world.html" data-id="cj19gil4o0001rwwfonp5e24w" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -379,6 +397,21 @@ var _hmt = _hmt || [];
                 <aside id="sidebar">
   <div class="sidebar">
    
+        <div class="widget-wrap">
+        <h3 class="widget-title">公告</h3>
+        <div class="widget">
+            <div id="board">
+                
+                <p>您好，您是第<span id="busuanzi_value_site_uv"></span>位访客</p>
+                
+                <div class="content">
+                    <p>欢迎交流与分享经验!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
         
     <div class="widget-wrap">
         <h3 class="widget-title">最新文章</h3>
@@ -454,20 +487,62 @@ var _hmt = _hmt || [];
     <div class="outer">
 
     
-                <div id="footer_link">
-                    友链：
-                    
-                            <a href="https://hexo.io/" target="_blank">Hexo</a>
-                    
-                </div>
-    
 
         <div id="footer-info" class="inner">
             &copy; 2017 Cofess - Web Developer &amp; Designer<br>
             Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>. Theme by <a href="https://github.com/yohnz/hexo-theme-card">card</a> base on <a href="http://github.com/PPOffice">icarus</a>. 
+            
+                <a href="https://cofess.github.io/sitemap.xml" target="_blank">Sitemap</a>.
+            
+            
+                本站总访问量<span id="busuanzi_value_site_pv"></span>次
+            
         </div>
     </div>    
 </footer>
+
+    <div id="donate" class="content">
+  <div class="hide_box"></div>
+  <div class="donate-box">
+    <a class="donate-close" href="javascript:void(0)" onclick="donateToggle()" title="关闭">×</a>
+    <div class="donate-tit">
+      <p>感谢您的支持，我会继续努力的!</p>
+    </div>
+    <div class="donate-payimg">
+      <img src="/images/donate/alipayimg.png" alt="扫码支持" title="扫一扫" />
+    </div>
+    <div class="pay_explain">扫码打赏，你说多少就多少</div>
+    <div class="donate-payselect">
+      <div class="pay_item checked" data-id="alipay">
+        <span class="radiobox"></span>
+        <span class="pay_logo"><img src="/images/donate/alipay.jpg" alt="支付宝" /></span>
+      </div>
+      <div class="pay_item" data-id="weipay">
+        <span class="radiobox"></span>
+        <span class="pay_logo"><img src="/images/donate/wechat.jpg" alt="微信" /></span>
+      </div>
+    </div>
+    <div class="donate-info">
+      <p>打开<span id="donate-pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+$(function() {
+  $(".pay_item").click(function() {
+    $(this).addClass('checked').siblings('.pay_item').removeClass('checked');
+    var dataid = $(this).attr('data-id');
+    $(".donate-payimg img").attr("src", "/images/donate/" + dataid + "img.png");
+    $("#donate-pay_txt").text(dataid == "alipay" ? "支付宝" : "微信");
+  });
+});
+
+function donateToggle() {
+  $(".hide_box").fadeToggle();
+  $(".donate-box").fadeToggle();
+}
+</script>
+
         
     
     <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1783844"></script>
@@ -485,6 +560,9 @@ var _hmt = _hmt || [];
         <script src="/vendor/lightgallery/js/lg-share.min.js"></script>
         <script src="/vendor/lightgallery/js/lg-video.min.js"></script>
     
+    
+    
+        <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     
 
 
