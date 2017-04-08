@@ -4,9 +4,9 @@
   <subtitle>Web Developer &amp; Designer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://cofess.github.io/"/>
+  <link href="http://blog.cofess.com/"/>
   <updated>2017-04-04T12:29:15.142Z</updated>
-  <id>https://cofess.github.io/</id>
+  <id>http://blog.cofess.com/</id>
   
   <author>
     <name>Cofess,cofess@foxmail.com</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://cofess.github.io/2015/12/31/hello-world.html"/>
-    <id>https://cofess.github.io/2015/12/31/hello-world.html</id>
+    <link href="http://blog.cofess.com/2015/12/31/hello-world.html"/>
+    <id>http://blog.cofess.com/2015/12/31/hello-world.html</id>
     <published>2015-12-31T06:49:13.000Z</published>
     <updated>2017-04-04T12:29:15.142Z</updated>
     
@@ -28,12 +28,12 @@
     
     </summary>
     
-      <category term="Diary" scheme="https://cofess.github.io/categories/Diary/"/>
+      <category term="Diary" scheme="http://blog.cofess.com/categories/Diary/"/>
     
     
-      <category term="PS3" scheme="https://cofess.github.io/tags/PS3/"/>
+      <category term="PS3" scheme="http://blog.cofess.com/tags/PS3/"/>
     
-      <category term="Games" scheme="https://cofess.github.io/tags/Games/"/>
+      <category term="Games" scheme="http://blog.cofess.com/tags/Games/"/>
     
   </entry>
   
