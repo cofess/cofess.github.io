@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-04-04T12:29:15.142Z</updated>
+  <updated>2017-04-09T15:32:35.595Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -16,24 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://blog.cofess.com/2015/12/31/hello-world.html"/>
-    <id>http://blog.cofess.com/2015/12/31/hello-world.html</id>
-    <published>2015-12-31T06:49:13.000Z</published>
-    <updated>2017-04-04T12:29:15.142Z</updated>
+    <title>Hexo搭建个人博客并部署到Github</title>
+    <link href="http://blog.cofess.com/2017/04/09/hexo-blog.html"/>
+    <id>http://blog.cofess.com/2017/04/09/hexo-blog.html</id>
+    <published>2017-04-09T06:49:13.000Z</published>
+    <updated>2017-04-09T15:32:35.595Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;你需要准备好以下软件：&lt;br&gt;Node.js环境和Git&lt;/p&gt;
+&lt;h2 id=&quot;Hexo安装&quot;&gt;&lt;a href=&quot;#Hexo安装&quot; cla
     
     </summary>
     
-      <category term="Diary" scheme="http://blog.cofess.com/categories/Diary/"/>
+      <category term="Hexo" scheme="http://blog.cofess.com/categories/Hexo/"/>
     
     
-      <category term="PS3" scheme="http://blog.cofess.com/tags/PS3/"/>
+      <category term="Hexo" scheme="http://blog.cofess.com/tags/Hexo/"/>
     
-      <category term="Games" scheme="http://blog.cofess.com/tags/Games/"/>
+      <category term="Github" scheme="http://blog.cofess.com/tags/Github/"/>
     
   </entry>
   

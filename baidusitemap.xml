@@ -4,21 +4,21 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2015/12/31/hello-world.html</loc>
-    <lastmod>2017-04-04T12:29:15.142Z</lastmod>
+    <loc>http://blog.cofess.com/2017/04/09/hexo-blog.html</loc>
+    <lastmod>2017-04-09T15:32:35.595Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2015-12-31T06:49:13.000Z</pubTime>
+        <title>Hexo搭建个人博客并部署到Github</title>
+        <pubTime>2017-04-09T06:49:13.000Z</pubTime>
         
-        <tag>PS3</tag>
+        <tag>Hexo</tag>
          
-        <tag>Games</tag>
+        <tag>Github</tag>
          
          
            
              
-              <breadCrumb title="Diary" url="http://blog.cofess.com/categories/Diary/"/>
+              <breadCrumb title="Hexo" url="http://blog.cofess.com/categories/Hexo/"/>
           
         </display>
     </data>
