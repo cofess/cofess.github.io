@@ -289,19 +289,9 @@ var _hmt = _hmt || [];
     <div class="widget-wrap">
         <h3 class="widget-title">最新文章</h3>
         <div class="widget">
-            <ul id="recent-post" class="">
+            <ul id="recent-post" class="no-thumbnail">
                 
                     <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/04/09/hexo-blog.html" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
                         
                         <div class="item-inner">
                             <p class="item-category"><a class="article-category-link" href="/categories/Hexo/">Hexo</a></p>
@@ -349,6 +339,67 @@ var _hmt = _hmt || [];
             <a href="/tags/Github/" style="font-size: 10px; color: #999">Github</a> <a href="/tags/Hexo/" style="font-size: 10px; color: #999">Hexo</a>
         </div>
     </div>
+
+    
+        
+    <div class="widget-wrap">
+        <h3 class="widget-title">Popular Repositories</h3>
+        <div class="widget">
+            <ul class="popular-container"></ul>
+        </div>
+    </div>
+    
+    <script type="text/template" id="popular-list-template">
+        <li class="public source ">
+            <a href="{%=clone_url%}" target="_blank" title="{%=full_name%}" class="mini-repo-list-item css-truncate">
+                <span class="repo-icon octicon octicon-repo"></span>
+                <span class="repo-and-owner css-truncate-target">
+                    {%=full_name%}
+                </span>
+            </a>
+        </li>
+    </script>
+
+    <script src="/js/baiduTemplate.js"></script>
+    <script type="text/javascript">
+        var popular_repos = function(){
+
+            var baiduTpl = new Object();
+
+            var handleTpl = function(){
+                baiduTpl.popular_list = baidu.template("popular-list-template");
+            };
+
+            var handleGithub = function(){
+                var popularContainer = $(".popular-container");
+
+                var repos = "gulp-startkit,gulp-startpro".split(",");
+                for(var i in repos){
+                    var name = repos[i];
+                    $.get("https://api.github.com/repos/cofess/"+name,handle);
+                }
+
+                function handle(result){
+                    result.updated_at = result.updated_at.split("T")[0];
+                    if(result){
+                        var html = baiduTpl.popular_list(result);
+                        popularContainer.append(html);
+                        $(".geopattern").each(function(){           
+                            $(this).geopattern($(this).data('pattern-id'));
+                        });
+                    }
+                }
+            };
+
+            return {
+                init:function(){
+                    handleTpl();
+                    handleGithub();
+                }
+            }
+        }; 
+        $(popular_repos().init);
+    </script>
 
     
    <div>

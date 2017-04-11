@@ -3,16 +3,17 @@
 <head>
     <meta charset="utf-8">
     
-    <title>归档: 2017/4 | Cofess - Web Developer &amp; Designer</title>
+    <title>Repository | Cofess - Web Developer &amp; Designer</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Cofess 的个人博客，致力于网站建设与前端用户体验设计。">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Cofess">
-<meta property="og:url" content="http://blog.cofess.com/archives/2017/04/index.html">
+<meta property="og:title" content="Repository">
+<meta property="og:url" content="http://blog.cofess.com/repository/index.html">
 <meta property="og:site_name" content="Cofess">
 <meta property="og:description" content="Cofess 的个人博客，致力于网站建设与前端用户体验设计。">
+<meta property="og:updated_time" content="2017-04-11T15:12:20.990Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Cofess">
+<meta name="twitter:title" content="Repository">
 <meta name="twitter:description" content="Cofess 的个人博客，致力于网站建设与前端用户体验设计。">
     
 
@@ -221,51 +222,90 @@ var _hmt = _hmt || [];
 </aside>
 
             
-            <section id="main"><div class="timeline timeline-wrap">
+            <section id="main">  <section class="container">
+      <header class="text-center">
+          <h1>Repository</h1>
+          <p class="lead">I have <span id="repo-count">0</span> projects on Github</p>
+      </header>
+      <div class="repo-list">
+        <div class="blankslate"><h3 class="text-center">Loading...</h3></div>
+      </div>
+  </section>
+
+<!--Github项模版-->
+<script type="text/template" id="list-template">
+    <li class="collection-card">
+      <a href="{%=clone_url%}" target="_blank" class="collection-card-image geopattern" data-pattern-id="{%=name%}">
+          <h3 class="collection-card-title">{%=name%}</h3>
+      </a>
+      <p class="collection-card-body">{%=description%}</p>
+      <div class="collection-card-meta">
+        <span class="meta-info tooltipped tooltipped-n" aria-label="{%=stargazers_count%} stars">
+        <span class="octicon octicon-star"></span> {%=stargazers_count%}</span> <span class="meta-info tooltipped tooltipped-n" aria-label="{%=forks_count%} forks">
+        <span class="octicon octicon-git-branch"></span> {%=forks_count%}</span> <span class="meta-info tooltipped tooltipped-n" aria-label="最后更新时间：{%=updated_at%}">
+        <span class="octicon octicon-clock"></span>
+        <time datetime="{%=updated_at%}">{%=updated_at%}</time>
+        </span>
+      </div>
+  </li>
+
+</script>
+
+<script src="/js/geopattern.js"></script>
+<script src="/js/baiduTemplate.js"></script>
+<!--获取失败模版-->
+<script type="text/template" id="error-template">
+  <div class="blankslate"><h3>加载失败</h3><p>请刷新或稍后再试...</p>></div>
+</script>
+<script type="text/javascript">
     
-            <div class="timeline-row timeline-row-major">
-                <span class="node"><i class="fa fa-calendar"></i></span>
-                <h1 class="title">2017</h1>
-            </div>
-        
-        <div class="timeline-row">
-            <span class="node"></span>
-            <div class="content">
-                
-    
-        <h1 itemprop="name">
-            <a class="timeline-article-title" href="/2017/04/09/hexo-blog.html">Hexo搭建个人博客并部署到Github</a>
-        </h1>
-    
+  var open = function(){
 
-                <div class="article-meta">
-                    
-    <div class="article-date">
-        <i class="fa fa-calendar"></i>
-        <a href="/2017/04/09/hexo-blog.html">
-            <time datetime="2017-04-09T06:49:13.000Z" itemprop="datePublished">2017-04-09</time>
-        </a>
-    </div>
+    var baiduTpl = new Object();
 
+    var handleTpl = function(){
+      baiduTpl.list = baidu.template("list-template");
+      baiduTpl.error = baidu.template("error-template");
+    };
 
-                    
-    <div class="article-category">
-    	<i class="fa fa-folder"></i>
-        <a class="article-category-link" href="/categories/Hexo/">Hexo</a>
-    </div>
+    var handleGithub = function(){
+      var repoContainer = $('.repo-list');
+      var errorContainer = repoContainer.find(".blankslate")
+      var countContainer = $("#repo-count");
 
-                    
-    <div class="article-tag">
-        <i class="fa fa-tag"></i>
-        <a class="tag-link" href="/tags/Github/">Github</a>, <a class="tag-link" href="/tags/Hexo/">Hexo</a>
-    </div>
+      $.get("https://api.github.com/users/cofess/repos",function(result){
+          if(result){
+            errorContainer.remove();
+            countContainer.text(result.length); //设置项目个数
+            var ul = $("<ul class='collection-listing clearfix'></ul>");
+            for(var i in result){
+              var repo = result[i];
+              repo.updated_at = repo.updated_at.substring(0,repo.updated_at.lastIndexOf("T"));
+              var html = baiduTpl.list(repo);
+              ul.append(html); 
+            }
+            repoContainer.append(ul);
+            $(".geopattern").each(function(){     
+              $(this).geopattern($(this).data('pattern-id'));
+            });
+          }else{
+            errorContainer.remove();
+            countContainer.append(baiduTpl.error());
+          }
+      });
+    };
 
-                </div>
-            </div>
-        </div>
-    
-</div>
-</section>
+    return {
+      init : function(){
+        handleTpl();
+        handleGithub();
+      }
+    }
+  };
+
+  $(open().init);
+
+</script></section>
             
                 <aside id="sidebar">
   <div class="sidebar">
