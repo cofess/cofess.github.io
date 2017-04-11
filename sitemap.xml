@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cofess.com/about/index.html</loc>
+    
+    <lastmod>2017-04-11T12:53:37.598Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.cofess.com//404.html</loc>
     
-    <lastmod>2017-04-10T14:25:58.782Z</lastmod>
+    <lastmod>2017-04-11T12:47:42.139Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://blog.cofess.com/2017/04/09/hexo-blog.html</loc>
     
     <lastmod>2017-04-09T15:32:35.595Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/about/index.html</loc>
-    
-    <lastmod>2017-04-09T15:15:45.210Z</lastmod>
     
   </url>
   
