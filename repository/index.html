@@ -187,10 +187,13 @@ var _hmt = _hmt || [];
       </a>
       <p class="collection-card-body">{%=description%}</p>
       <div class="collection-card-meta">
+        <span class="meta-info tooltipped tooltipped-n JavaScript" aria-label="JavaScript project">{%=language%}</span>
         <span class="meta-info tooltipped tooltipped-n" aria-label="{%=stargazers_count%} stars">
-        <span class="octicon octicon-star"></span> {%=stargazers_count%}</span> <span class="meta-info tooltipped tooltipped-n" aria-label="{%=forks_count%} forks">
-        <span class="octicon octicon-git-branch"></span> {%=forks_count%}</span> <span class="meta-info tooltipped tooltipped-n" aria-label="最后更新时间：{%=updated_at%}">
-        <span class="octicon octicon-clock"></span>
+        <i class="fa fa-star"></i> {%=stargazers_count%}</span> 
+        <span class="meta-info tooltipped tooltipped-n" aria-label="{%=forks_count%} forks">
+        <i class="fa fa-code-fork"></i> {%=forks_count%}</span> 
+        <span class="meta-info tooltipped tooltipped-n" aria-label="最后更新时间：{%=updated_at%}">
+        <i class="fa fa-clock-o"></i>
         <time datetime="{%=updated_at%}">{%=updated_at%}</time>
         </span>
       </div>
