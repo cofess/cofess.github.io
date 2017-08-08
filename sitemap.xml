@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cofess.com/books/index.html</loc>
+    
+    <lastmod>2017-08-08T12:35:09.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/links/index.html</loc>
+    
+    <lastmod>2017-08-08T11:37:12.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/repository/index.html</loc>
+    
+    <lastmod>2017-08-08T07:26:49.569Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/about/index.html</loc>
+    
+    <lastmod>2017-08-08T07:25:22.788Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
     
-    <lastmod>2017-08-07T02:29:53.302Z</lastmod>
+    <lastmod>2017-08-08T01:03:18.772Z</lastmod>
     
   </url>
   
@@ -12,13 +40,6 @@
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
     
     <lastmod>2017-08-07T02:29:53.255Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/about/index.html</loc>
-    
-    <lastmod>2017-08-06T15:04:18.593Z</lastmod>
     
   </url>
   
@@ -33,20 +54,6 @@
     <loc>http://blog.cofess.com/categories/index.html</loc>
     
     <lastmod>2017-08-04T09:35:58.621Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/links/index.html</loc>
-    
-    <lastmod>2017-08-02T13:21:37.095Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/repository/index.html</loc>
-    
-    <lastmod>2017-08-02T12:12:57.011Z</lastmod>
     
   </url>
   
