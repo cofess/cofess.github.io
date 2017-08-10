@@ -3,33 +3,9 @@
 
 
     
-    
-    
-    
-    
-  <url>
-    <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
-    <lastmod>2017-08-08T01:03:18.772Z</lastmod>
-    <data>
-        <display>
-        <title>gulp常用插件</title>
-        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
-        
-        <tag>gulp</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
   <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-08-07T02:29:53.255Z</lastmod>
+    <lastmod>2017-08-10T12:21:27.056Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>
@@ -48,6 +24,30 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
+    <lastmod>2017-08-10T11:53:34.463Z</lastmod>
+    <data>
+        <display>
+        <title>gulp常用插件</title>
+        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
+        
+        <tag>gulp</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
     
     
     
