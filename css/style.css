@@ -5379,6 +5379,17 @@ body.no-sidebar .sidebar {
   bottom: -20px;
 }
 
+.bar .bar-inner:before {
+  content: '';
+  position: absolute;
+  width: 120%;
+  height: 52px;
+  left: -10%;
+  border-top: 1px solid #f6f6f6;
+  border-bottom: 1px solid #fff;
+  background-color: #fff;
+}
+
 .bar .bar-inner .pager,
 .bar .bar-inner .bar-right {
   position: relative;
@@ -7856,6 +7867,12 @@ body.okayNav-loaded {
 
   .main {
     min-height: auto;
+  }
+
+  .bar .bar-inner:before {
+    width: -webkit-calc(100% + 30px);
+    width: calc(100% + 30px);
+    left: -15px;
   }
 
   .main .content {
