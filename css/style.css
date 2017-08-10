@@ -5379,21 +5379,30 @@ body.no-sidebar .sidebar {
   bottom: -20px;
 }
 
-.bar .bar-inner:before {
+.bar.bar-footer:before {
   content: '';
   position: absolute;
   width: 120%;
   height: 52px;
   left: -10%;
-  border-top: 1px solid #f6f6f6;
+  border-top: 1px solid #000;
   border-bottom: 1px solid #fff;
   background-color: #fff;
 }
 
-.bar .bar-inner .pager,
-.bar .bar-inner .bar-right {
+.bar .bar-inner {
   position: relative;
   z-index: 9;
+}
+
+.bar .bar-inner:before,
+.bar .bar-inner:after {
+  content: " ";
+  display: table;
+}
+
+.bar .bar-inner:after {
+  clear: both;
 }
 
 .bar .bar-right {
@@ -7869,7 +7878,7 @@ body.okayNav-loaded {
     min-height: auto;
   }
 
-  .bar .bar-inner:before {
+  .bar.bar-footer:before {
     width: -webkit-calc(100% + 30px);
     width: calc(100% + 30px);
     left: -15px;
