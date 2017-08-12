@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cofess.com/about/index.html</loc>
+    
+    <lastmod>2017-08-12T04:37:58.851Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
     
     <lastmod>2017-08-11T02:34:54.312Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
     
     <lastmod>2017-08-11T02:34:40.599Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/about/index.html</loc>
-    
-    <lastmod>2017-08-10T23:43:57.630Z</lastmod>
     
   </url>
   
