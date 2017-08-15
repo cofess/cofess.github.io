@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-08-11T02:34:54.312Z</updated>
+  <updated>2017-08-15T03:43:49.447Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -16,15 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第三方社会化评论系统集合</title>
+    <link href="http://blog.cofess.com/2017/08/15/a-colection-of-third-party-social-review-systems.html"/>
+    <id>http://blog.cofess.com/2017/08/15/a-colection-of-third-party-social-review-systems.html</id>
+    <published>2017-08-15T03:19:22.000Z</published>
+    <updated>2017-08-15T03:43:49.447Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Tue Aug 15 2017 11:46:55 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;建网站经常要用到第三方社会化评论系统，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;h2 id=&quot;多说&quot;&gt;&lt;a href=&quot;#多说&quot; class=&quot;he
+    
+    </summary>
+    
+      <category term="建站" scheme="http://blog.cofess.com/categories/build-website/"/>
+    
+    
+      <category term="Social" scheme="http://blog.cofess.com/tags/social/"/>
+    
+  </entry>
+  
+  <entry>
     <title>gulp常用插件</title>
     <link href="http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html"/>
     <id>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</id>
     <published>2017-08-06T14:52:29.000Z</published>
-    <updated>2017-08-11T02:34:54.312Z</updated>
+    <updated>2017-08-15T03:28:27.647Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Aug 15 2017 08:42:56 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a href=&quot;#任务管理&quot; class=&quot;headerlink&quot; title=&quot;任务管理&quot;&gt;&lt;/a&gt;任务管理&lt;/h2&gt;&lt;h3
+      &lt;!-- build time:Tue Aug 15 2017 11:46:54 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a href=&quot;#任务管理&quot; class=&quot;headerlink&quot; title=&quot;任务管理&quot;&gt;&lt;/a&gt;任务管理&lt;/h2&gt;&lt;h3
     
     </summary>
     
@@ -40,11 +60,11 @@
     <link href="http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html"/>
     <id>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</id>
     <published>2017-04-09T06:49:13.000Z</published>
-    <updated>2017-08-11T02:34:40.599Z</updated>
+    <updated>2017-08-15T03:28:27.663Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Aug 15 2017 08:42:56 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;你需要准备好以下
+      &lt;!-- build time:Tue Aug 15 2017 11:46:55 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;你需要准备好以下
     
     </summary>
     
