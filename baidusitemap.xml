@@ -4,28 +4,8 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/08/15/a-colection-of-third-party-social-review-systems.html</loc>
-    <lastmod>2017-08-15T03:43:49.447Z</lastmod>
-    <data>
-        <display>
-        <title>第三方社会化评论系统集合</title>
-        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
-        
-        <tag>Social</tag>
-         
-         
-           
-             
-              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-08-15T03:28:27.663Z</lastmod>
+    <lastmod>2017-08-15T04:02:32.978Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>
@@ -39,6 +19,26 @@
            
              
               <breadCrumb title="Hexo" url="http://blog.cofess.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/08/15/a-colection-of-third-party-social-review-systems.html</loc>
+    <lastmod>2017-08-15T03:43:49.447Z</lastmod>
+    <data>
+        <display>
+        <title>第三方社会化评论系统集合</title>
+        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
+        
+        <tag>Social</tag>
+         
+         
+           
+             
+              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
           
         </display>
     </data>
