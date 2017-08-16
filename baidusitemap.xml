@@ -5,10 +5,10 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/15/a-colection-of-third-party-social-review-systems.html</loc>
-    <lastmod>2017-08-15T04:11:34.292Z</lastmod>
+    <lastmod>2017-08-15T13:27:11.990Z</lastmod>
     <data>
         <display>
-        <title>第三方社会化评论系统集合</title>
+        <title>第三方社会化评论系统整理</title>
         <pubTime>2017-08-15T03:19:22.000Z</pubTime>
         
         <tag>Social</tag>
@@ -17,6 +17,26 @@
            
              
               <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
+    <lastmod>2017-08-15T10:09:51.091Z</lastmod>
+    <data>
+        <display>
+        <title>gulp常用插件整理</title>
+        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
+        
+        <tag>gulp</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
           
         </display>
     </data>
@@ -39,26 +59,6 @@
            
              
               <breadCrumb title="Hexo" url="http://blog.cofess.com/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in.html</loc>
-    <lastmod>2017-08-15T03:28:27.647Z</lastmod>
-    <data>
-        <display>
-        <title>gulp常用插件</title>
-        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
-        
-        <tag>gulp</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
           
         </display>
     </data>
