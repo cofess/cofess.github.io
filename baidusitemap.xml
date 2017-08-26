@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
-    <lastmod>2017-08-16T08:58:08.718Z</lastmod>
+    <lastmod>2017-08-26T09:25:35.558Z</lastmod>
     <data>
         <display>
         <title>gulp常用插件整理</title>
@@ -24,8 +24,28 @@
 
     
   <url>
+    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
+    <lastmod>2017-08-26T09:25:35.556Z</lastmod>
+    <data>
+        <display>
+        <title>第三方社会化评论系统整理</title>
+        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
+        
+        <tag>Social</tag>
+         
+         
+           
+             
+              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
-    <lastmod>2017-08-16T08:58:08.716Z</lastmod>
+    <lastmod>2017-08-26T09:25:35.554Z</lastmod>
     <data>
         <display>
         <title>Hexo博客常用插件及用法</title>
@@ -42,7 +62,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-08-16T08:58:08.710Z</lastmod>
+    <lastmod>2017-08-26T09:25:35.548Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>
@@ -54,26 +74,6 @@
          
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
-    <lastmod>2017-08-16T08:58:08.697Z</lastmod>
-    <data>
-        <display>
-        <title>第三方社会化评论系统整理</title>
-        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
-        
-        <tag>Social</tag>
-         
-         
-           
-             
-              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
-          
         </display>
     </data>
     </url>
