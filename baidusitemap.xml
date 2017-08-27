@@ -4,8 +4,25 @@
 
     
   <url>
+    <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
+    <lastmod>2017-08-27T03:19:11.424Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客常用插件及用法</title>
+        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
-    <lastmod>2017-08-26T09:25:35.558Z</lastmod>
+    <lastmod>2017-08-27T03:19:11.422Z</lastmod>
     <data>
         <display>
         <title>gulp常用插件整理</title>
@@ -25,7 +42,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
-    <lastmod>2017-08-26T09:25:35.556Z</lastmod>
+    <lastmod>2017-08-27T03:19:11.420Z</lastmod>
     <data>
         <display>
         <title>第三方社会化评论系统整理</title>
@@ -44,25 +61,8 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
-    <lastmod>2017-08-26T09:25:35.554Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo博客常用插件及用法</title>
-        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-08-26T09:25:35.548Z</lastmod>
+    <lastmod>2017-08-27T03:19:11.416Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>
