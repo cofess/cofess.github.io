@@ -4,62 +4,8 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
-    <lastmod>2017-09-06T14:02:33.331Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo博客常用插件及用法</title>
-        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
-    <lastmod>2017-09-06T13:59:16.305Z</lastmod>
-    <data>
-        <display>
-        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
-        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
-    <lastmod>2017-09-06T13:46:54.979Z</lastmod>
-    <data>
-        <display>
-        <title>第三方社会化评论系统整理</title>
-        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
-        
-        <tag>Social</tag>
-         
-         
-           
-             
-              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
-    <lastmod>2017-09-06T13:46:54.978Z</lastmod>
+    <lastmod>2017-09-06T14:03:39.683Z</lastmod>
     <data>
         <display>
         <title>gulp常用插件整理</title>
@@ -78,8 +24,45 @@
 
     
   <url>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
+    <lastmod>2017-09-06T14:03:39.680Z</lastmod>
+    <data>
+        <display>
+        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
+        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
+    <lastmod>2017-09-06T14:03:36.696Z</lastmod>
+    <data>
+        <display>
+        <title>第三方社会化评论系统整理</title>
+        <pubTime>2017-08-15T03:19:22.000Z</pubTime>
+        
+        <tag>Social</tag>
+         
+         
+           
+             
+              <breadCrumb title="建站" url="http://blog.cofess.com/categories/build-website/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-09-06T13:46:54.974Z</lastmod>
+    <lastmod>2017-09-06T14:03:36.694Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>
@@ -88,6 +71,23 @@
         <tag>Hexo</tag>
          
         <tag>Github</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
+    <lastmod>2017-09-06T14:03:36.690Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客常用插件及用法</title>
+        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
+        
+        <tag>Hexo</tag>
          
          
            
