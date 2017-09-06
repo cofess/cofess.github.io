@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-08-28T03:26:47.098Z</updated>
+  <updated>2017-09-06T02:33:34.884Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -16,15 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
+    <link href="http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html"/>
+    <id>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</id>
+    <published>2017-09-06T01:19:34.000Z</published>
+    <updated>2017-09-06T02:33:34.884Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Sep 06 2017 10:39:59 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://blog.cofess.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客常用插件及用法</title>
     <link href="http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html"/>
     <id>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</id>
     <published>2017-08-16T05:16:27.000Z</published>
-    <updated>2017-08-28T03:26:47.098Z</updated>
+    <updated>2017-09-06T02:31:53.581Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Aug 28 2017 11:28:52 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a href=&quot;#hexo-autonofollow&quot; class=&quot;headerlink&quot; tit
+      &lt;!-- build time:Wed Sep 06 2017 10:39:59 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
     
     </summary>
     
@@ -38,11 +56,11 @@
     <link href="http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html"/>
     <id>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</id>
     <published>2017-08-15T03:19:22.000Z</published>
-    <updated>2017-08-28T03:26:49.842Z</updated>
+    <updated>2017-09-06T02:31:53.577Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Aug 28 2017 11:28:52 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、贝米Ba
+      &lt;!-- build time:Wed Sep 06 2017 10:39:59 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a h
     
     </summary>
     
@@ -58,11 +76,11 @@
     <link href="http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html"/>
     <id>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</id>
     <published>2017-08-06T14:52:29.000Z</published>
-    <updated>2017-08-28T03:26:49.846Z</updated>
+    <updated>2017-09-06T02:31:53.578Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Aug 28 2017 11:28:52 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a href=&quot;#任务管理&quot; class=&quot;headerlink&quot; title=&quot;任务管理&quot;&gt;&lt;/a&gt;任务管理&lt;/h2&gt;&lt;h3
+      &lt;!-- build time:Wed Sep 06 2017 10:39:59 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
     
     </summary>
     
@@ -78,7 +96,7 @@
     <link href="http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html"/>
     <id>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</id>
     <published>2017-04-09T06:49:13.000Z</published>
-    <updated>2017-08-28T03:26:49.844Z</updated>
+    <updated>2017-09-06T02:31:53.574Z</updated>
     
     <summary type="html">
     
