@@ -4,25 +4,8 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
-    <lastmod>2017-09-06T02:33:34.884Z</lastmod>
-    <data>
-        <display>
-        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
-        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
-    <lastmod>2017-09-06T02:31:53.581Z</lastmod>
+    <lastmod>2017-09-06T14:02:33.331Z</lastmod>
     <data>
         <display>
         <title>Hexo博客常用插件及用法</title>
@@ -38,20 +21,17 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
-    <lastmod>2017-09-06T02:31:53.578Z</lastmod>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
+    <lastmod>2017-09-06T13:59:16.305Z</lastmod>
     <data>
         <display>
-        <title>gulp常用插件整理</title>
-        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
+        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
+        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
         
-        <tag>Gulp</tag>
+        <tag>Hexo</tag>
          
          
            
-             
-              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
-          
         </display>
     </data>
     </url>
@@ -59,7 +39,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
-    <lastmod>2017-09-06T02:31:53.577Z</lastmod>
+    <lastmod>2017-09-06T13:46:54.979Z</lastmod>
     <data>
         <display>
         <title>第三方社会化评论系统整理</title>
@@ -78,8 +58,28 @@
 
     
   <url>
+    <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
+    <lastmod>2017-09-06T13:46:54.978Z</lastmod>
+    <data>
+        <display>
+        <title>gulp常用插件整理</title>
+        <pubTime>2017-08-06T14:52:29.000Z</pubTime>
+        
+        <tag>Gulp</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://blog.cofess.com/categories/front-end-development/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
-    <lastmod>2017-09-06T02:31:53.574Z</lastmod>
+    <lastmod>2017-09-06T13:46:54.974Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客并部署到Github</title>

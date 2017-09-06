@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
-    
-    <lastmod>2017-09-06T02:33:34.884Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
     
-    <lastmod>2017-09-06T02:31:53.581Z</lastmod>
+    <lastmod>2017-09-06T14:02:33.331Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
     
-    <lastmod>2017-09-06T02:31:53.578Z</lastmod>
+    <lastmod>2017-09-06T13:59:16.305Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
     
-    <lastmod>2017-09-06T02:31:53.577Z</lastmod>
+    <lastmod>2017-09-06T13:46:54.979Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
+    
+    <lastmod>2017-09-06T13:46:54.978Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
     
-    <lastmod>2017-09-06T02:31:53.574Z</lastmod>
+    <lastmod>2017-09-06T13:46:54.974Z</lastmod>
     
   </url>
   
