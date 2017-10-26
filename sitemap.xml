@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html</loc>
-    
-    <lastmod>2017-09-17T02:01:30.609Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
     
-    <lastmod>2017-09-17T02:01:30.606Z</lastmod>
+    <lastmod>2017-10-26T13:35:57.937Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
     
-    <lastmod>2017-09-17T02:01:30.603Z</lastmod>
+    <lastmod>2017-10-26T13:35:57.930Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html</loc>
+    <loc>http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html</loc>
     
-    <lastmod>2017-09-17T02:01:30.585Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html</loc>
-    
-    <lastmod>2017-09-17T02:01:30.580Z</lastmod>
+    <lastmod>2017-10-26T13:35:57.928Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.cofess.com/about/index.html</loc>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</loc>
     
-    <lastmod>2017-08-31T14:19:37.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/tags/index.html</loc>
-    
-    <lastmod>2017-08-28T03:18:54.326Z</lastmod>
+    <lastmod>2017-10-26T13:35:57.926Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.cofess.com/categories/index.html</loc>
+    <loc>http://blog.cofess.com/2017/08/06/gulp-plug-ins.html</loc>
     
-    <lastmod>2017-08-28T03:18:45.300Z</lastmod>
+    <lastmod>2017-10-26T13:35:57.920Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/repository/index.html</loc>
     
-    <lastmod>2017-08-28T03:07:21.974Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/links/index.html</loc>
-    
-    <lastmod>2017-08-28T03:07:15.620Z</lastmod>
+    <lastmod>2017-09-22T13:18:55.952Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/books/index.html</loc>
     
-    <lastmod>2017-08-28T03:06:58.657Z</lastmod>
+    <lastmod>2017-09-22T13:17:24.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/links/index.html</loc>
+    
+    <lastmod>2017-09-22T13:15:17.596Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/tags/index.html</loc>
+    
+    <lastmod>2017-09-22T13:14:50.041Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/categories/index.html</loc>
+    
+    <lastmod>2017-09-22T13:14:30.406Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/about/index.html</loc>
+    
+    <lastmod>2017-09-22T13:12:51.953Z</lastmod>
     
   </url>
   

@@ -1,5 +1,5 @@
-http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formulas-in-hexo.html
-http://blog.cofess.com/2017/08/16/hexo-blogs-comonly-used-plugins-and-usage.html
+http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html
+http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html
 http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html
-http://blog.cofess.com/2017/08/06/gulp-comonly-used-plug-ins-finishing.html
+http://blog.cofess.com/2017/08/06/gulp-plug-ins.html
 http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html
