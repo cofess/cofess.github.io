@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-instructions.html</loc>
-    
-    <lastmod>2017-11-01T13:48:52.930Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</loc>
     
-    <lastmod>2017-11-01T13:43:11.549Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-the-latex-mathematical-formula-in-hexo.html</loc>
-    
-    <lastmod>2017-11-01T12:51:28.132Z</lastmod>
+    <lastmod>2017-11-12T09:06:38.804Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html</loc>
     
-    <lastmod>2017-11-01T12:47:05.663Z</lastmod>
+    <lastmod>2017-11-12T09:05:32.706Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
+    <loc>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-instructions.html</loc>
     
-    <lastmod>2017-11-01T12:47:05.657Z</lastmod>
+    <lastmod>2017-11-12T09:04:26.428Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-plug-ins.html</loc>
     
-    <lastmod>2017-11-01T12:47:05.651Z</lastmod>
+    <lastmod>2017-11-12T09:04:26.428Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</loc>
+    
+    <lastmod>2017-11-12T09:04:26.428Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</loc>
+    
+    <lastmod>2017-11-12T09:04:26.428Z</lastmod>
     
   </url>
   
