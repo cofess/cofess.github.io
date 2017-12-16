@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cofess</title>
+  
   <subtitle>Web Developer &amp; Designer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-11-12T09:07:05.927Z</updated>
+  <updated>2017-12-16T14:26:37.570Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -17,14 +18,17 @@
   
   <entry>
     <title>Hexo博客主题pure使用说明</title>
-    <link href="http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-instructions.html"/>
-    <id>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-instructions.html</id>
+    <link href="http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html"/>
+    <id>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html</id>
     <published>2017-11-01T13:45:08.000Z</published>
-    <updated>2017-11-12T09:07:05.927Z</updated>
+    <updated>2017-12-16T14:26:37.570Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Nov 12 2017 18:23:36 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h1&gt;&lt;p&gt;A bra
+      
+      
+        &lt;!-- build time:Sat Dec 16 2017 22:26:53 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
+      
     
     </summary>
     
@@ -38,11 +42,14 @@
     <link href="http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html"/>
     <id>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</id>
     <published>2017-09-06T01:19:34.000Z</published>
-    <updated>2017-11-12T09:07:08.582Z</updated>
+    <updated>2017-12-16T14:03:58.959Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Nov 12 2017 18:23:36 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+      
+      
+        &lt;!-- build time:Sat Dec 16 2017 22:26:53 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+      
     
     </summary>
     
@@ -53,14 +60,17 @@
   
   <entry>
     <title>Hexo博客常用插件及用法</title>
-    <link href="http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html"/>
-    <id>http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html</id>
+    <link href="http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html"/>
+    <id>http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html</id>
     <published>2017-08-16T05:16:27.000Z</published>
-    <updated>2017-11-12T09:07:05.927Z</updated>
+    <updated>2017-12-16T14:03:58.963Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Nov 12 2017 18:23:36 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
+      
+      
+        &lt;!-- build time:Sat Dec 16 2017 22:26:53 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
+      
     
     </summary>
     
@@ -71,14 +81,17 @@
   
   <entry>
     <title>第三方社会化评论系统整理</title>
-    <link href="http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html"/>
-    <id>http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html</id>
+    <link href="http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html"/>
+    <id>http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html</id>
     <published>2017-08-15T03:19:22.000Z</published>
-    <updated>2017-11-12T09:07:08.582Z</updated>
+    <updated>2017-12-16T14:03:58.961Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Nov 12 2017 18:23:36 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a h
+      
+      
+        &lt;!-- build time:Sat Dec 16 2017 22:26:53 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a h
+      
     
     </summary>
     
@@ -91,14 +104,17 @@
   
   <entry>
     <title>gulp常用插件整理</title>
-    <link href="http://blog.cofess.com/2017/08/06/gulp-plug-ins.html"/>
-    <id>http://blog.cofess.com/2017/08/06/gulp-plug-ins.html</id>
+    <link href="http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html"/>
+    <id>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html</id>
     <published>2017-08-06T14:52:29.000Z</published>
-    <updated>2017-11-12T09:07:08.582Z</updated>
+    <updated>2017-12-16T14:03:58.966Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Nov 12 2017 18:23:36 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
+      
+      
+        &lt;!-- build time:Sat Dec 16 2017 22:26:53 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
+      
     
     </summary>
     
@@ -111,10 +127,10 @@
   
   <entry>
     <title>Hexo搭建个人博客并部署到Github</title>
-    <link href="http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html"/>
-    <id>http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html</id>
+    <link href="http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html"/>
+    <id>http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html</id>
     <published>2017-04-09T06:49:13.000Z</published>
-    <updated>2017-11-12T09:07:05.927Z</updated>
+    <updated>2017-12-16T14:03:58.957Z</updated>
     
     <summary type="html">
     

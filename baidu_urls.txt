@@ -1,6 +1,6 @@
-http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-instructions.html
+http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html
 http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html
-http://blog.cofess.com/2017/08/16/comon-plugins-and-usage-of-hexo-blog.html
-http://blog.cofess.com/2017/08/15/third-party-socialization-review-system.html
-http://blog.cofess.com/2017/08/06/gulp-plug-ins.html
-http://blog.cofess.com/2017/04/09/hexo-builds-personal-blogs-and-deploys-them-to-github.html
+http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html
+http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html
+http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html
+http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html
