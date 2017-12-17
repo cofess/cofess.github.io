@@ -4,14 +4,36 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html</loc>
-    <lastmod>2017-12-16T14:26:37.570Z</lastmod>
+    <loc>http://blog.cofess.com/2017/12/17/visual-studio-code-personal-use-plug-in-colation.html</loc>
+    <lastmod>2017-12-17T10:46:37.627Z</lastmod>
     <data>
         <display>
-        <title>Hexo博客主题pure使用说明</title>
-        <pubTime>2017-11-01T13:45:08.000Z</pubTime>
+        <title>Visual Studio Code个人使用插件整理</title>
+        <pubTime>2017-12-17T10:32:51.000Z</pubTime>
+        
+        <tag>工具</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发工具" url="http://blog.cofess.com/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html</loc>
+    <lastmod>2017-12-16T14:27:01.712Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo搭建个人博客并部署到Github</title>
+        <pubTime>2017-04-09T06:49:13.000Z</pubTime>
         
         <tag>Hexo</tag>
+         
+        <tag>Github</tag>
          
          
            
@@ -22,7 +44,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html</loc>
-    <lastmod>2017-12-16T14:03:58.966Z</lastmod>
+    <lastmod>2017-12-16T14:27:01.710Z</lastmod>
     <data>
         <display>
         <title>gulp常用插件整理</title>
@@ -41,12 +63,12 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html</loc>
-    <lastmod>2017-12-16T14:03:58.963Z</lastmod>
+    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</loc>
+    <lastmod>2017-12-16T14:27:01.701Z</lastmod>
     <data>
         <display>
-        <title>Hexo博客常用插件及用法</title>
-        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
+        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
+        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -59,7 +81,7 @@
     
   <url>
     <loc>http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html</loc>
-    <lastmod>2017-12-16T14:03:58.961Z</lastmod>
+    <lastmod>2017-12-16T14:27:01.699Z</lastmod>
     <data>
         <display>
         <title>第三方社会化评论系统整理</title>
@@ -78,12 +100,12 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</loc>
-    <lastmod>2017-12-16T14:03:58.959Z</lastmod>
+    <loc>http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html</loc>
+    <lastmod>2017-12-16T14:27:01.697Z</lastmod>
     <data>
         <display>
-        <title>如何在Hexo中使用Mathjax渲染LaTeX数学公式</title>
-        <pubTime>2017-09-06T01:19:34.000Z</pubTime>
+        <title>Hexo博客常用插件及用法</title>
+        <pubTime>2017-08-16T05:16:27.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -95,16 +117,14 @@
 
     
   <url>
-    <loc>http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html</loc>
-    <lastmod>2017-12-16T14:03:58.957Z</lastmod>
+    <loc>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html</loc>
+    <lastmod>2017-12-16T14:27:01.688Z</lastmod>
     <data>
         <display>
-        <title>Hexo搭建个人博客并部署到Github</title>
-        <pubTime>2017-04-09T06:49:13.000Z</pubTime>
+        <title>Hexo博客主题pure使用说明</title>
+        <pubTime>2017-11-01T13:45:08.000Z</pubTime>
         
         <tag>Hexo</tag>
-         
-        <tag>Github</tag>
          
          
            

@@ -1,3 +1,4 @@
+http://blog.cofess.com/2017/12/17/visual-studio-code-personal-use-plug-in-colation.html
 http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html
 http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html
 http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html
