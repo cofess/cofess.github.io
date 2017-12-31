@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-12-17T10:46:37.627Z</updated>
+  <updated>2017-12-17T10:47:14.920Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://blog.cofess.com/2017/12/17/visual-studio-code-personal-use-plug-in-colation.html"/>
     <id>http://blog.cofess.com/2017/12/17/visual-studio-code-personal-use-plug-in-colation.html</id>
     <published>2017-12-17T10:32:51.000Z</published>
-    <updated>2017-12-17T10:46:37.627Z</updated>
+    <updated>2017-12-17T10:47:14.920Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Dec 17 2017 18:47:09 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
+        &lt;!-- build time:Sun Dec 31 2017 15:08:27 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
       
     
     </summary>
@@ -44,13 +44,13 @@
     <link href="http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html"/>
     <id>http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html</id>
     <published>2017-11-01T13:45:08.000Z</published>
-    <updated>2017-12-16T14:27:01.688Z</updated>
+    <updated>2017-12-17T10:36:18.682Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Dec 17 2017 18:36:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
+        &lt;!-- build time:Sun Dec 31 2017 15:08:27 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
       
     
     </summary>
@@ -65,13 +65,13 @@
     <link href="http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html"/>
     <id>http://blog.cofess.com/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html</id>
     <published>2017-09-06T01:19:34.000Z</published>
-    <updated>2017-12-16T14:27:01.701Z</updated>
+    <updated>2017-12-17T10:36:15.958Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Dec 17 2017 18:36:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+        &lt;!-- build time:Sun Dec 31 2017 15:08:28 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
       
     
     </summary>
@@ -86,13 +86,13 @@
     <link href="http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html"/>
     <id>http://blog.cofess.com/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html</id>
     <published>2017-08-16T05:16:27.000Z</published>
-    <updated>2017-12-16T14:27:01.697Z</updated>
+    <updated>2017-12-17T10:36:15.953Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Dec 17 2017 18:36:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
+        &lt;!-- build time:Sun Dec 31 2017 15:08:27 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
       
     
     </summary>
@@ -107,14 +107,11 @@
     <link href="http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html"/>
     <id>http://blog.cofess.com/2017/08/15/third-party-socialized-review-system.html</id>
     <published>2017-08-15T03:19:22.000Z</published>
-    <updated>2017-12-16T14:27:01.699Z</updated>
+    <updated>2017-12-31T06:51:29.055Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;!-- build time:Sun Dec 17 2017 18:36:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a h
-      
+      &lt;!-- build time:Sun Dec 31 2017 15:08:28 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a href=&quot;http://xn--Baye-9r3ku93f.me&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;贝米Baye.me&lt;/a&gt;、多说等，有一些已经无法使用了。&lt;/p&gt;
     
     </summary>
     
@@ -130,13 +127,13 @@
     <link href="http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html"/>
     <id>http://blog.cofess.com/2017/08/06/gulp-comon-plug-in-colation.html</id>
     <published>2017-08-06T14:52:29.000Z</published>
-    <updated>2017-12-16T14:27:01.710Z</updated>
+    <updated>2017-12-17T10:36:15.960Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Dec 17 2017 18:36:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
+        &lt;!-- build time:Sun Dec 31 2017 15:08:27 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
       
     
     </summary>
@@ -153,7 +150,7 @@
     <link href="http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html"/>
     <id>http://blog.cofess.com/2017/04/09/hexo-builds-a-personal-blog-and-deploys-to-github.html</id>
     <published>2017-04-09T06:49:13.000Z</published>
-    <updated>2017-12-16T14:27:01.712Z</updated>
+    <updated>2017-12-17T10:36:15.957Z</updated>
     
     <summary type="html">
     
