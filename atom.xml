@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2017-12-17T10:47:14.920Z</updated>
+  <updated>2018-03-25T07:25:13.681Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>年后的状态，懒！</title>
+    <link href="http://blog.cofess.com/2018/03/25/%E5%B9%B4%E5%90%8E%E7%9A%84%E7%8A%B6%E6%80%81%EF%BC%8C%E6%87%92%EF%BC%81.html"/>
+    <id>http://blog.cofess.com/2018/03/25/年后的状态，懒！.html</id>
+    <published>2018-03-25T06:59:41.000Z</published>
+    <updated>2018-03-25T07:25:13.681Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Mar 25 2018 15:25:23 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;最近的状态&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#最近的状态&quot;&gt;&lt;/a&gt; 最近的状态&lt;/h2&gt;&lt;p&gt;年后
+      
+    
+    </summary>
+    
+      <category term="个人" scheme="http://blog.cofess.com/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+      <category term="状态" scheme="http://blog.cofess.com/tags/%E7%8A%B6%E6%80%81/"/>
+    
+      <category term="计划" scheme="http://blog.cofess.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>Visual Studio Code个人使用插件整理</title>
@@ -27,7 +52,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
+        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
       
     
     </summary>
@@ -50,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
+        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
       
     
     </summary>
@@ -71,7 +96,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
       
     
     </summary>
@@ -92,7 +117,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
+        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
       
     
     </summary>
@@ -111,7 +136,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a href=&quot;http://xn--Baye-9r3ku93f.me&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;贝米Baye.me&lt;/a&gt;、多说等，有一些已经无法使用了。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a href=&quot;http://xn--Baye-9r3ku93f.me&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;贝米Baye.me&lt;/a&gt;、多说等，有一些已经无法使用了。&lt;/p&gt;
     
     </summary>
     
@@ -133,7 +158,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 04:12:40 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
+        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
       
     
     </summary>
