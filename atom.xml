@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.cofess.com/"/>
-  <updated>2018-03-25T07:25:13.681Z</updated>
+  <updated>2018-03-28T13:32:43.883Z</updated>
   <id>http://blog.cofess.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>那些有趣的注释，有没有你曾用过的</title>
+    <link href="http://blog.cofess.com/2018/03/28/%E9%82%A3%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E6%B3%A8%E9%87%8A%EF%BC%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%A0%E6%9B%BE%E7%94%A8%E8%BF%87%E7%9A%84.html"/>
+    <id>http://blog.cofess.com/2018/03/28/那些有趣的注释，有没有你曾用过的.html</id>
+    <published>2018-03-28T12:45:41.000Z</published>
+    <updated>2018-03-28T13:32:43.883Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Mar 28 2018 21:32:53 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;闲来无事收集了一些有趣的注释，各式各样的都有，程序员真是一群有趣的人，喜欢哪一款拿走不谢&lt;/p&gt;&lt;p&gt;第一款：佛祖保佑，永无BUG&lt;/p&gt;&lt;figur
+      
+    
+    </summary>
+    
+      <category term="开发" scheme="http://blog.cofess.com/categories/%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="程序员" scheme="http://blog.cofess.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    
+  </entry>
   
   <entry>
     <title>年后的状态，懒！</title>
@@ -27,7 +50,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:25:23 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;最近的状态&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#最近的状态&quot;&gt;&lt;/a&gt; 最近的状态&lt;/h2&gt;&lt;p&gt;年后
+        &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;最近的状态&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#最近的状态&quot;&gt;&lt;/a&gt; 最近的状态&lt;/h2&gt;&lt;p&gt;年后
       
     
     </summary>
@@ -52,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
+        &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;开发&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#开发&quot;&gt;&lt;/a&gt; 开发&lt;/h1&gt;&lt;h2 id=&quot;文件大小&quot;&gt;
       
     
     </summary>
@@ -75,7 +98,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
+        &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;pure&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#pure&quot;&gt;&lt;/a&gt; pure&lt;/h2&gt;&lt;p&gt;A bra
       
     
     </summary>
@@ -96,7 +119,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
+        &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;平时使用markdown写文档的时候，免不了会碰到数学公式，好在有强大的&lt;a href=&quot;https://www.mathjax.org/&quot; rel=
       
     
     </summary>
@@ -117,7 +140,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
+        &lt;!-- build time:Wed Mar 28 2018 21:32:14 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;hexo-autonofollow&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#hexo-autonofoll
       
     
     </summary>
@@ -136,7 +159,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a href=&quot;http://xn--Baye-9r3ku93f.me&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;贝米Baye.me&lt;/a&gt;、多说等，有一些已经无法使用了。&lt;/p&gt;
+      &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;网站经常要用到第三方社会化评论系统，评论可以增加用户之间的互动，到底有哪些社会化评论系统可供选择？&lt;/p&gt;&lt;p&gt;常见的有：畅言、友言、评论啦、&lt;a href=&quot;http://xn--Baye-9r3ku93f.me&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;贝米Baye.me&lt;/a&gt;、多说等，有一些已经无法使用了。&lt;/p&gt;
     
     </summary>
     
@@ -158,7 +181,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 25 2018 15:24:10 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
+        &lt;!-- build time:Wed Mar 28 2018 21:32:15 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;任务管理&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#任务管理&quot;&gt;&lt;/a&gt; 任务管理&lt;/h2&gt;&lt;h3 id=&quot;
       
     
     </summary>

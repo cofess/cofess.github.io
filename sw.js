@@ -24,6 +24,8 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/2018/03/28/那些有趣的注释，有没有你曾用过的.html');
+
   precacheUrls.push('/2018/03/25/年后的状态，懒！.html');
 
   precacheUrls.push('/2017/12/17/visual-studio-code-personal-use-plug-in-colation.html');
@@ -31,8 +33,6 @@ var precacheUrls = [];
   precacheUrls.push('/2017/11/01/hexo-blog-theme-pure-usage-description.html');
 
   precacheUrls.push('/2017/09/06/how-to-use-mathjax-to-render-latex-mathematical-formula-in-hexo.html');
-
-  precacheUrls.push('/2017/08/16/comon-plug-in-and-usage-of-hexo-blog.html');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
